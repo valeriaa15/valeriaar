@@ -1,0 +1,12 @@
+.carousel-inner{
+    width: 100%;
+    height: 750px;
+}
+footer{
+ background-color: rgba(0, 0, 255, 0.829);
+    color: aliceblue;
+    clear: both;
+    text-align: center;
+    box-sizing: border-box;
+   font-style: oblique;
+}

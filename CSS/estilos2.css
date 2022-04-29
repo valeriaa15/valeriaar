@@ -1,0 +1,14 @@
+#menu{
+    background-color: rgb(31, 96, 134);
+}
+/* Los # es cuando hay in i*/
+#menu a{
+    font-size: 18px;
+    color: #f0ffff;
+}
+#menu button{
+    font size:18px;
+}
+.dropwn-menu a{
+    color: black;
+}
